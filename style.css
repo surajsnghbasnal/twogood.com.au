@@ -791,7 +791,9 @@ footer {
         flex-direction: column;
         justify-content: center;
     }
-
+    .cart-page {
+        justify-content: center;
+    }
     .mright {
         order: 1;
         width: 100%;
