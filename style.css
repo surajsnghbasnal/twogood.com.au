@@ -789,7 +789,7 @@ footer {
 
     .menu-page {
         flex-direction: column;
-        justify-content: end;
+        justify-content: center;
     }
 
     .mright {
