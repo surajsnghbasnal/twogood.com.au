@@ -136,7 +136,7 @@ function menuPge() {
     close.addEventListener('click', function () {
         menu.classList.remove('hide');
         close.classList.add('hide');
-        down.style.top = "-100%"
+        down.style.top = "-150%"
     });
 }
 menuPge()
