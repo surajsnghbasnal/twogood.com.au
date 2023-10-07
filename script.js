@@ -155,7 +155,7 @@ function cartPage() {
     cross.addEventListener('click', function () {
         shop.classList.remove('hide');
         cross.classList.add('hide');
-        cart.style.top = "-100%"
+        cart.style.top = "-150%"
     });
 }
 cartPage()

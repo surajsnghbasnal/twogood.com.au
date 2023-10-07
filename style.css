@@ -100,7 +100,7 @@ body {
     width: 100%;
     position: absolute;
     background-color: #f7f7f7;
-    top: -80%;
+    top: -150%;
     left: 0;
     z-index: 997;
     display: flex;
